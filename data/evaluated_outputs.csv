@@ -1,0 +1,6 @@
+prompt,llm_response,relevance_score,clarity_score,correctness_score,hallucination_flag
+What is Artificial Intelligence?,Artificial Intelligence is a field of computer science that enables machines to simulate human intelligence.,5,5,5,No
+Explain gravity,"Gravity is a force that pulls objects toward each other, especially the Earth.",5,5,5,No
+What is the capital of India?,The capital of India is Mumbai.,5,5,1,Yes
+Define machine learning,Machine learning allows systems to learn from data without explicit programming.,5,5,5,No
+What is 2 + 2?,2 + 2 equals 5.,3,5,1,Yes

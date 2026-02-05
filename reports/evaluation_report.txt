@@ -1,0 +1,12 @@
+LLM Output Quality Evaluation Report
+==================================
+
+Total Responses Evaluated: 5
+Hallucinated Responses: 2
+
+Average Quality Scores:
+relevance_score      4.6
+clarity_score        5.0
+correctness_score    3.4
+
+Evaluation completed successfully.
